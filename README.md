@@ -5,7 +5,8 @@
 
 A SOC-style log analyzer for Linux auth.log (SSH) and web server access logs (Apache/Nginx). Identifies suspicious IPs based on failed authentication attempts.
 
-
+![output](assets/outputcsv.png)
+![output](assets/outputjson.png)
 
 ```bash
 # Clone the repository
