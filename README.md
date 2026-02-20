@@ -4,11 +4,10 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 A SOC-style log analyzer for Linux auth.log (SSH) and web server access logs (Apache/Nginx). Identifies suspicious IPs based on failed authentication attempts.
-## Installation
 
-![Example Output](assets/5818866910496493036.png)
-![Example Output](assets/5818866910496493035.png)
-
+Add screenshot of detection output
+![Detection Output](assets/CSV.png)
+![Detection Output](assets/JSON.png)
 ```bash
 # Clone the repository
 git clone https://github.com/Andrea2137/soc-log-analyzer.git
