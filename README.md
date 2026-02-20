@@ -6,8 +6,9 @@
 A SOC-style log analyzer for Linux auth.log (SSH) and web server access logs (Apache/Nginx). Identifies suspicious IPs based on failed authentication attempts.
 
 Add screenshot of detection output
-![Detection Output](assets/CSV.png)
-![Detection Output](assets/JSON.png)
+
+<img src="assets/CSV.png" width="700">
+<img src="assets/JSON.png" width="700">
 ```bash
 # Clone the repository
 git clone https://github.com/Andrea2137/soc-log-analyzer.git
